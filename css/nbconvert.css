@@ -13,6 +13,7 @@ div.notebook {
 
 div.notebook label.github-last-update {
   color:rgba(225, 246, 255, 0.45);
+  background-color: #eff;
   font-weight:200;
   display: inline;
 }
