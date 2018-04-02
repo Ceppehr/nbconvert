@@ -10,6 +10,12 @@ div.notebook {
     margin-bottom:15px
 }
 
+div.img{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
 div.notebook label.github-last-update {
   color:#aba5a5;
   background-color: #fbfbfb;
