@@ -189,7 +189,12 @@ div.notebook div.nbconvert .s1,
 div.notebook div.nbconvert .sd, 
 div.notebook div.nbconvert .s2 {
     color: #cc2222;
-    font-size: .87em;
+    font-size: .98em;
+}
+
+div.notebook div.nbconvert .nc {
+    color: #4D00FF;
+    font-size: .98em;
 }
 div.notebook div.nbconvert .se {
     color: #cc2222;
