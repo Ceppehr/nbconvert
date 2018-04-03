@@ -209,6 +209,8 @@ div.notebook div.nbconvert .nn {
     font-weight: bold;
 }
 div.notebook div.nbconvert div.prompt.output_prompt + div.output_area pre {
+    padding-left:70px;
+    font-size:.87em;
     background-color: #FFFFFF;
 }
 
