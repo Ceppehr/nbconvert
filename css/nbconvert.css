@@ -264,7 +264,8 @@ div.notebook div.nbconvert div.rendered_html h1,
 div.notebook div.nbconvert div.rendered_html h2, 
 div.notebook div.nbconvert div.rendered_html h3, 
 div.notebook div.nbconvert div.rendered_html h4 {
-    font-size: 97%;
+    font-size: 25px;
+    font-weight: 350;
     margin-top: 30px;
     margin-bottom: 10px;
 }
