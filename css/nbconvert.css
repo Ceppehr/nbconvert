@@ -193,9 +193,10 @@ div.notebook div.nbconvert .s2 {
     color: #cc2222;
 }
 
-div.notebook div.nbconvert .c1 {
+div.notebook .c1 {
     color: #408080;
     font-style: italic;
+}
 
 div.notebook div.nbconvert .nc {
     color: #4D00FF;
