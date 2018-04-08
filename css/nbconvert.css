@@ -197,6 +197,11 @@ div.notebook .c1 {
     font-style: italic;
 }
 
+div.notebook .bp {
+    color: #4D00FF;
+    font-style: italic;
+}
+
 div.notebook div.nbconvert .nc {
     color: #4D00FF;
 }
