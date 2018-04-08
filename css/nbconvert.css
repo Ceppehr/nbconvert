@@ -122,8 +122,9 @@ div.notebook div.nbconvert .nb,
 div.notebook div.nbconvert .kc, 
 div.notebook div.nbconvert .sd, 
 div.notebook div.nbconvert .nf {
-    font-family: monospace;
+  font-family: monospace;
   font-size:14px;
+  line-height: 20px;
 
 }
 
