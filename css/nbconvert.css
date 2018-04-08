@@ -151,7 +151,9 @@ div.notebook div.nbconvert .prompt{
     float: left;
 }
 div.notebook div.nbconvert .c, 
-div.notebook div.nbconvert c1 {
+div.notebook div.nbconvert 
+
+{
     color: #408080;
     font-style: italic;
 }
@@ -190,6 +192,10 @@ div.notebook div.nbconvert .sd,
 div.notebook div.nbconvert .s2 {
     color: #cc2222;
 }
+
+div.notebook div.nbconvert .c1 {
+    color: #408080;
+    font-style: italic;
 
 div.notebook div.nbconvert .nc {
     color: #4D00FF;
