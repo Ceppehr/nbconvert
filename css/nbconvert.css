@@ -214,7 +214,8 @@ div.notebook div.nbconvert .si {
     font-weight: bold;
 }
 div.notebook div.nbconvert .nn {
-    color: #00f;
+    color: #000000;
+    font-weight: normal;
 }
 div.notebook div.nbconvert div.prompt.output_prompt + div.output_area pre {
     background-color: #FFFFFF;
