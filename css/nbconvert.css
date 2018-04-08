@@ -281,5 +281,6 @@ div.notebook div.nbconvert div.rendered_html h4 {
 
 div.notebook div.nbconvert div.rendered_html p a {
   color: #a7a5a5;
+  text-decoration: underline;
 }
 /************** Jupyter Notebook CSS ************************/
